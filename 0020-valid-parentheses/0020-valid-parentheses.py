@@ -8,9 +8,8 @@ class Solution(object):
             else:
                 if not stack or stack[-1]!=pairs[ch]:
                     return False
-                    break
                 stack.pop()
-        return True
+        return len(stack)==0
 
                 
         
