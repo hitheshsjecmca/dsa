@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hitheshsjecmca/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/hitheshsjecmca/dsa/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hitheshsjecmca/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hitheshsjecmca/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Math
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/hitheshsjecmca/dsa/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/hitheshsjecmca/dsa/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/hitheshsjecmca/dsa/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hitheshsjecmca/dsa/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
