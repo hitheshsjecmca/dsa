@@ -7,5 +7,11 @@ class Solution(object):
                 matrix[i][j],matrix[j][i] = matrix[j][i], matrix[i][j]
 
         for row in matrix:
-            row.reverse()
+           l=0
+           r=n-1
+
+           while l<r:
+            row[l],row[r]=row[r],row[l]
+            l+=1
+            r-=1
         
