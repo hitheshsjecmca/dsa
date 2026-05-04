@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hitheshsjecmca/dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hitheshsjecmca/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/hitheshsjecmca/dsa/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/hitheshsjecmca/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hitheshsjecmca/dsa/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/hitheshsjecmca/dsa/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/hitheshsjecmca/dsa/tree/master/0088-merge-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hitheshsjecmca/dsa/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/hitheshsjecmca/dsa/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/hitheshsjecmca/dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hitheshsjecmca/dsa/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hitheshsjecmca/dsa/tree/master/0069-sqrtx) |
 ## Dynamic Programming
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hitheshsjecmca/dsa/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/hitheshsjecmca/dsa/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
