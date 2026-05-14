@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/hitheshsjecmca/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/hitheshsjecmca/dsa/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/hitheshsjecmca/dsa/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/hitheshsjecmca/dsa/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hitheshsjecmca/dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hitheshsjecmca/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/hitheshsjecmca/dsa/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/hitheshsjecmca/dsa/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
