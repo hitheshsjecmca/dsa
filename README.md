@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/hitheshsjecmca/dsa/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/hitheshsjecmca/dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/hitheshsjecmca/dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hitheshsjecmca/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/hitheshsjecmca/dsa/tree/master/0035-search-insert-position) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hitheshsjecmca/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/hitheshsjecmca/dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hitheshsjecmca/dsa/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hitheshsjecmca/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/hitheshsjecmca/dsa/tree/master/0049-group-anagrams) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hitheshsjecmca/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hitheshsjecmca/dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
