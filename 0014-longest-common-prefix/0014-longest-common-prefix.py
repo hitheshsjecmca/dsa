@@ -1,11 +1,10 @@
 class Solution(object):
     def longestCommonPrefix(self, strs):
-        prefix=strs[0]
+        p=strs[0]
 
-        for word in strs:
-            while word[:len(prefix)] != prefix:
-                prefix=prefix[:-1]
-         
-        return prefix
+        for w in strs:
+            while w[:len(p)]!=p:
+                p=p[:-1]
+        return p
         
         
