@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hitheshsjecmca/dsa/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/hitheshsjecmca/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hitheshsjecmca/dsa/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -139,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/hitheshsjecmca/dsa/tree/master/0076-minimum-window-substring) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hitheshsjecmca/dsa/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hitheshsjecmca/dsa/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
