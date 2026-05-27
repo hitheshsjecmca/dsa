@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/hitheshsjecmca/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/hitheshsjecmca/dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/hitheshsjecmca/dsa/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/hitheshsjecmca/dsa/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/hitheshsjecmca/dsa/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/hitheshsjecmca/dsa/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/hitheshsjecmca/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hitheshsjecmca/dsa/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/hitheshsjecmca/dsa/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/hitheshsjecmca/dsa/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hitheshsjecmca/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/hitheshsjecmca/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hitheshsjecmca/dsa/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/hitheshsjecmca/dsa/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -158,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/hitheshsjecmca/dsa/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/hitheshsjecmca/dsa/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
