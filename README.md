@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hitheshsjecmca/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/hitheshsjecmca/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hitheshsjecmca/dsa/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/hitheshsjecmca/dsa/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/hitheshsjecmca/dsa/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/hitheshsjecmca/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/hitheshsjecmca/dsa/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/hitheshsjecmca/dsa/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -156,10 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/hitheshsjecmca/dsa/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/hitheshsjecmca/dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/hitheshsjecmca/dsa/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/hitheshsjecmca/dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/hitheshsjecmca/dsa/tree/master/0622-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
