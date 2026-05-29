@@ -43,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/hitheshsjecmca/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/hitheshsjecmca/dsa/tree/master/0622-design-circular-queue) |
+| [0704-binary-search](https://github.com/hitheshsjecmca/dsa/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/hitheshsjecmca/dsa/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hitheshsjecmca/dsa/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hitheshsjecmca/dsa/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/hitheshsjecmca/dsa/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
