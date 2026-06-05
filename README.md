@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/hitheshsjecmca/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hitheshsjecmca/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hitheshsjecmca/dsa/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/hitheshsjecmca/dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/hitheshsjecmca/dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hitheshsjecmca/dsa/tree/master/0053-maximum-subarray) |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/hitheshsjecmca/dsa/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hitheshsjecmca/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hitheshsjecmca/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
