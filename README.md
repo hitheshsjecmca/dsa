@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/hitheshsjecmca/dsa/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/hitheshsjecmca/dsa/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/hitheshsjecmca/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/hitheshsjecmca/dsa/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hitheshsjecmca/dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hitheshsjecmca/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -232,4 +233,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hitheshsjecmca/dsa/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/hitheshsjecmca/dsa/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hitheshsjecmca/dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
