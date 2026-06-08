@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/hitheshsjecmca/dsa/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hitheshsjecmca/dsa/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hitheshsjecmca/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hitheshsjecmca/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/hitheshsjecmca/dsa/tree/master/0162-find-peak-element) |
@@ -239,8 +240,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/hitheshsjecmca/dsa/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/hitheshsjecmca/dsa/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hitheshsjecmca/dsa/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hitheshsjecmca/dsa/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
