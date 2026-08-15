@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/hitheshsjecmca/dsa/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/hitheshsjecmca/dsa/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/hitheshsjecmca/dsa/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/hitheshsjecmca/dsa/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/hitheshsjecmca/dsa/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/hitheshsjecmca/dsa/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/hitheshsjecmca/dsa/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
