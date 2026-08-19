@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/hitheshsjecmca/dsa/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/hitheshsjecmca/dsa/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/hitheshsjecmca/dsa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/hitheshsjecmca/dsa/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/hitheshsjecmca/dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hitheshsjecmca/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hitheshsjecmca/dsa/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/hitheshsjecmca/dsa/tree/master/0724-find-pivot-index) |
 ## Matrix
 |  |
 | ------- |
