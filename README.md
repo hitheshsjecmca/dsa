@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/hitheshsjecmca/dsa/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/hitheshsjecmca/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/hitheshsjecmca/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/hitheshsjecmca/dsa/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/hitheshsjecmca/dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/hitheshsjecmca/dsa/tree/master/0724-find-pivot-index) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hitheshsjecmca/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hitheshsjecmca/dsa/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/hitheshsjecmca/dsa/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/hitheshsjecmca/dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hitheshsjecmca/dsa/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/hitheshsjecmca/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/hitheshsjecmca/dsa/tree/master/0724-find-pivot-index) |
 ## Matrix
 |  |
