@@ -273,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hitheshsjecmca/dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hitheshsjecmca/dsa/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
