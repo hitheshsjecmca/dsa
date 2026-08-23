@@ -3,34 +3,33 @@ class Solution {
 
         int low=0;
         int high=0;
+
         for(int weight:weights){
-            low=Math.max(weight,low);
+            low=Math.max(low,weight);
             high+=weight;
         }
         int ans=high;
 
         while(low<=high){
-            int capacity=(low+high)/2;
-
-            int curw=0;
-            int rqd=1;
+            int capacity=low+(high-low)/2;
+            int cw=0;
+            int cd=1;
             for(int weight:weights){
-                
-                if(curw+weight>capacity){
-                    rqd++;
-                    curw=0;
+               
+
+                if(cw+weight>capacity){
+                    cd++;
+                    cw=0;
                 }
-                curw+=weight;
+                cw+=weight;
             }
-            if(rqd<=days){
+            if(cd<=days){
                 ans=capacity;
                 high=capacity-1;
             }else{
                 low=capacity+1;
             }
-
         }
-
         return ans;
 
         
