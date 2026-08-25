@@ -6,15 +6,14 @@
 #         self.right = right
 class Solution(object):
     def isSymmetric(self, root):
-        def mirror(left,right):
-            if not left and not right:
-                return True
-            if not left or not right:
-                return False
-            
-            return(
-                left.val==right.val and
-                mirror(left.left,right.right)and
-                mirror(left.right,right.left)
-            )
-        return mirror(root.left,root.right)
+        if root is None:
+            return True
+        return (self.ismirror(root.left,root.right))
+    def ismirror(self,left,right):
+        if left is None and right is None:
+            return True
+        if left is None or right is None:
+            return False
+        if left.val!=right.val:
+            return False
+        return (self.ismirror(left.left,right.right)and self.ismirror(left.right,right.left))
