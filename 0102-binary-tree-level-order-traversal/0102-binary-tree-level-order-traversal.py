@@ -7,25 +7,21 @@
 from collections import deque
 class Solution(object):
     def levelOrder(self, root):
-        if not root:
-            return []
-        
+        if root is None:
+            return[]
         result=[]
         queue=deque([root])
 
         while queue:
-            lsize=len(queue)
             l=[]
-            for _ in range(lsize):
-                node=queue.popleft()
-                l.append(node.val)
-
-                if node.left:
-                    queue.append(node.left)
-                
-                if node.right:
-                    queue.append(node.right)
-
+            lsize=len(queue)
+            for i in range(lsize):
+                current=queue.popleft()
+                l.append(current.val)
+                if current.left:
+                    queue.append(current.left)
+                if(current.right):
+                    queue.append(current.right)
             result.append(l)
         return result
         
