@@ -8,13 +8,13 @@ class Solution(object):
     def inorderTraversal(self, root):
         r=[]
 
-        def inorder(node):
-            if not node:
-                return
+        def inorder(root):
+            if root is None:
+                return 
             
-            inorder(node.left)
-            r.append(node.val)
-            inorder(node.right)
+            inorder(root.left)
+            r.append(root.val)
+            inorder(root.right)
 
         inorder(root)
         return r
