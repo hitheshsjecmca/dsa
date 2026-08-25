@@ -6,16 +6,15 @@
 #         self.right = right
 class Solution(object):
     def postorderTraversal(self, root):
-        r=[]
+        res=[]
 
-        def postorder(node):
-            if not node:
+        def postorder(root):
+            if root is None:
                 return
-            
-            postorder(node.left)
-            postorder(node.right)
-            r.append(node.val)
+            postorder(root.left)
+            postorder(root.right)
+            res.append(root.val)
 
         postorder(root)
-        return r
+        return res
         
