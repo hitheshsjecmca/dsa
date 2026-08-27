@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/hitheshsjecmca/dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/hitheshsjecmca/dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hitheshsjecmca/dsa/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/hitheshsjecmca/dsa/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/hitheshsjecmca/dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hitheshsjecmca/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hitheshsjecmca/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/hitheshsjecmca/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hitheshsjecmca/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hitheshsjecmca/dsa/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hitheshsjecmca/dsa/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/hitheshsjecmca/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hitheshsjecmca/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hitheshsjecmca/dsa/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hitheshsjecmca/dsa/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/hitheshsjecmca/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hitheshsjecmca/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hitheshsjecmca/dsa/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hitheshsjecmca/dsa/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
 | ------- |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/hitheshsjecmca/dsa/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hitheshsjecmca/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/hitheshsjecmca/dsa/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
