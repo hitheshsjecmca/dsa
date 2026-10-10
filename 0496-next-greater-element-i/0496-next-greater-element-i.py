@@ -1,18 +1,15 @@
 class Solution(object):
     def nextGreaterElement(self, nums1, nums2):
-        s=[]
-        n={}
-
-        for nu in nums2:
-            while s and nu>s[-1]:
-                sm=s.pop()
-                n[sm]=nu
-            s.append(nu)
-        while s:
-            n[s.pop()]=-1
-        res=[]
-
+        stack=[]
+        ng={}
+        for num in nums2:
+            while stack and stack[-1]<num:
+                smaller=stack.pop()
+                ng[smaller]=num
+            stack.append(num)
+        result=[]
         for num in nums1:
-            res.append(n[num])
-        return res
+            result.append(ng.get(num,-1))
+
+        return result
 
