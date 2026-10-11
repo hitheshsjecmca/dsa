@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/hitheshsjecmca/dsa/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/hitheshsjecmca/dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/hitheshsjecmca/dsa/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/hitheshsjecmca/dsa/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/hitheshsjecmca/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0503-next-greater-element-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hitheshsjecmca/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/hitheshsjecmca/dsa/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/hitheshsjecmca/dsa/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hitheshsjecmca/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/hitheshsjecmca/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hitheshsjecmca/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/hitheshsjecmca/dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/hitheshsjecmca/dsa/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/hitheshsjecmca/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/hitheshsjecmca/dsa/tree/master/0622-design-circular-queue) |
 ## Monotonic Stack
@@ -336,4 +339,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hitheshsjecmca/dsa/tree/master/0032-longest-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hitheshsjecmca/dsa/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hitheshsjecmca/dsa/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hitheshsjecmca/dsa/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
