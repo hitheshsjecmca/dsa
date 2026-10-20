@@ -2,9 +2,9 @@ class Solution(object):
     def containsDuplicate(self, nums):
         s=set()
 
-        for num in nums:
-            if num in s:
+        for x in nums:
+            if x in s:
                 return True
-            s.add(num)
+            s.add(x)
         return False
         
