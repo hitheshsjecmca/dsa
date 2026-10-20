@@ -8,7 +8,7 @@ class Solution(object):
             if s[i] in vowels:
                 c+=1
             if i>=k-1:
-                mx=max(mx,c)
+                mx=max(c,mx)
 
                 if s[i-k+1] in vowels:
                     c-=1
