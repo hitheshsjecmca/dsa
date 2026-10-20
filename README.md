@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hitheshsjecmca/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hitheshsjecmca/dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/hitheshsjecmca/dsa/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/hitheshsjecmca/dsa/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hitheshsjecmca/dsa/tree/master/0217-contains-duplicate) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hitheshsjecmca/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hitheshsjecmca/dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/hitheshsjecmca/dsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/hitheshsjecmca/dsa/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/hitheshsjecmca/dsa/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/hitheshsjecmca/dsa/tree/master/0443-string-compression) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hitheshsjecmca/dsa/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hitheshsjecmca/dsa/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hitheshsjecmca/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/hitheshsjecmca/dsa/tree/master/0189-rotate-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hitheshsjecmca/dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hitheshsjecmca/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
