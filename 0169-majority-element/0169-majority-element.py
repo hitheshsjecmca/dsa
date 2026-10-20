@@ -1,15 +1,9 @@
 class Solution(object):
     def majorityElement(self, nums):
-        c=0
-        can=None
+        freq={}
 
         for x in nums:
-            if c==0:
-                can=x
-
-            if x==can:
-                c+=1
-            else:
-                c-=1
-
-        return can
+            freq[x]=freq.get(x,0)+1
+            
+            if freq[x] > len(nums)//2:
+                return x
