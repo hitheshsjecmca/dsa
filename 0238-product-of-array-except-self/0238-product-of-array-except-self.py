@@ -3,15 +3,14 @@ class Solution(object):
         n=len(nums)
         answer=[1]*n
 
-        left=1
+        l=1
         for i in range(n):
-            answer[i]=left
-            left*=nums[i]
+            answer[i]=l
+            l*=nums[i]
 
-        right=1
+        r=1
         for i in range(n-1,-1,-1):
-            answer[i]*=right
-            right*=nums[i]
-
+            answer[i]*=r
+            r*=nums[i]
         return answer
         
