@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/hitheshsjecmca/dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/hitheshsjecmca/dsa/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/hitheshsjecmca/dsa/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/hitheshsjecmca/dsa/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hitheshsjecmca/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/hitheshsjecmca/dsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/hitheshsjecmca/dsa/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/hitheshsjecmca/dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hitheshsjecmca/dsa/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/hitheshsjecmca/dsa/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0680-valid-palindrome-ii) |
