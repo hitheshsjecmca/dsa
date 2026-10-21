@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hitheshsjecmca/dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/hitheshsjecmca/dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/hitheshsjecmca/dsa/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/hitheshsjecmca/dsa/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hitheshsjecmca/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hitheshsjecmca/dsa/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/hitheshsjecmca/dsa/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/hitheshsjecmca/dsa/tree/master/0704-binary-search) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hitheshsjecmca/dsa/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hitheshsjecmca/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/hitheshsjecmca/dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hitheshsjecmca/dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hitheshsjecmca/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hitheshsjecmca/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hitheshsjecmca/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hitheshsjecmca/dsa/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/hitheshsjecmca/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hitheshsjecmca/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hitheshsjecmca/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hitheshsjecmca/dsa/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/hitheshsjecmca/dsa/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/hitheshsjecmca/dsa/tree/master/1552-magnetic-force-between-two-balls) |
@@ -364,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/hitheshsjecmca/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
