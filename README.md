@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/hitheshsjecmca/dsa/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/hitheshsjecmca/dsa/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/hitheshsjecmca/dsa/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/hitheshsjecmca/dsa/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hitheshsjecmca/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hitheshsjecmca/dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/hitheshsjecmca/dsa/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/hitheshsjecmca/dsa/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/hitheshsjecmca/dsa/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hitheshsjecmca/dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hitheshsjecmca/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0410-split-array-largest-sum) |
+| [0647-palindromic-substrings](https://github.com/hitheshsjecmca/dsa/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
 | ------- |
