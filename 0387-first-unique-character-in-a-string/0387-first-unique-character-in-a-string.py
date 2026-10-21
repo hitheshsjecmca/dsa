@@ -6,9 +6,7 @@ class Solution(object):
         for x in s:
             freq[x]=freq.get(x,0)+1
         index=0
-        for x in s:
+        for i,x in enumerate(s):
             if freq[x]==1:
-                return index 
-            index+=1
+                return i
         return -1
-        
