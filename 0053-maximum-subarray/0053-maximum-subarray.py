@@ -1,12 +1,11 @@
 class Solution(object):
     def maxSubArray(self, nums):
-        max_=nums[0]
-        curr_max=nums[0]
-
-        for i in range(1,len(nums)):
-            curr_max=max(nums[i],curr_max + nums[i] )
-            max_=max(max_,curr_max)
-
-        return max_
+        mx=nums[0]
+        cur=nums[0]
+        n=len(nums)
+        for i in range(1,n):
+            cur=max(nums[i],cur+nums[i])
+            mx=max(mx,cur)
+        return mx
 
         
