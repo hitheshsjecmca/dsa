@@ -1,19 +1,22 @@
 class Solution(object):
     def compress(self, chars):
-        w=0
-        l=0
+        write=0
+        i=0
 
-        for r in range(len(chars)):
-            if r==len(chars)-1 or chars[r]!=chars[r+1]:
-                chars[w]=chars[l]
-                w+=1
-                c= r - l+1
+        while i<len(chars):
+            ch=chars[i]
+            count=0
 
-                if c>1:
-                    for d in str(c):
-                        chars[w]=d
-                        w+=1
-                l=r+1
-        return w
+            while i<len(chars) and ch==chars[i]:
+                i+=1
+                count+=1
 
-        
+            chars[write]=ch
+            write+=1
+
+            if count>1:
+                for digit in str(count):
+                    chars[write]=digit
+                    write+=1
+
+        return write        
