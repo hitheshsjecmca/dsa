@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/hitheshsjecmca/dsa/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hitheshsjecmca/dsa/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/hitheshsjecmca/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/hitheshsjecmca/dsa/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/hitheshsjecmca/dsa/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/hitheshsjecmca/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/hitheshsjecmca/dsa/tree/master/0704-binary-search) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/hitheshsjecmca/dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/hitheshsjecmca/dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hitheshsjecmca/dsa/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/hitheshsjecmca/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/hitheshsjecmca/dsa/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/hitheshsjecmca/dsa/tree/master/0567-permutation-in-string) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/hitheshsjecmca/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/hitheshsjecmca/dsa/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/hitheshsjecmca/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/hitheshsjecmca/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hitheshsjecmca/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/hitheshsjecmca/dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hitheshsjecmca/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hitheshsjecmca/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hitheshsjecmca/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/hitheshsjecmca/dsa/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
