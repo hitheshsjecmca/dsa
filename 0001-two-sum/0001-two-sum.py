@@ -1,12 +1,12 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        h={}
+        freq={}
 
-        for i,num in enumerate(nums):
-            c=target- num
+        for i,x in enumerate(nums):
+            rem=target-x
 
-            if c in h:
-                return [h[c],i]
+            if rem in freq:
+                return [freq[rem],i]
             
-            h[num]=i
+            freq[x]=i
         
