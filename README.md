@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hitheshsjecmca/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/hitheshsjecmca/dsa/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/hitheshsjecmca/dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/hitheshsjecmca/dsa/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/hitheshsjecmca/dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/hitheshsjecmca/dsa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/hitheshsjecmca/dsa/tree/master/0739-daily-temperatures) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/hitheshsjecmca/dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/hitheshsjecmca/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/hitheshsjecmca/dsa/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/hitheshsjecmca/dsa/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hitheshsjecmca/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sorting
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/hitheshsjecmca/dsa/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/hitheshsjecmca/dsa/tree/master/0645-set-mismatch) |
 | [1552-magnetic-force-between-two-balls](https://github.com/hitheshsjecmca/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/hitheshsjecmca/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/hitheshsjecmca/dsa/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
