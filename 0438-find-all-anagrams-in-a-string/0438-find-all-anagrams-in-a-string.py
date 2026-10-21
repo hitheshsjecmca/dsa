@@ -1,30 +1,30 @@
 
 class Solution(object):
     def findAnagrams(self, s, p):
-        if len(p) > len(s):
+        if len(p)>len(s):
             return []
 
-        freq = {}
-        window = {}
+        freq={}
+        win={}
 
-        for x in p:
-            freq[x] = freq.get(x, 0) + 1
-
-        res = []
-        k = len(p)
+        for i in range(len(p)):
+            freq[p[i]]=freq.get(p[i],0)+1
+        
+        res=[]
+        k=len(p)
 
         left=0
+
         for i in range(len(s)):
-            window[s[i]] = window.get(s[i], 0) + 1
+            win[s[i]]=win.get(s[i],0)+1
 
-            if i >= k:
-                window[s[left]] -= 1
+            if i>=k:
+                win[s[left]]-=1
 
-                if window[s[left]] == 0:
-                    del window[s[left]]
+                if win[s[left]]==0:
+                    del win[s[left]]
                 left+=1
-
-            if window == freq:
-                res.append(i - k + 1)
-
+            if win==freq:
+                res.append(i-k+1)
         return res
+
