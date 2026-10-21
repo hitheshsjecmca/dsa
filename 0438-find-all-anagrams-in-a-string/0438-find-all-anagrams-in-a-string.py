@@ -13,15 +13,16 @@ class Solution(object):
         res = []
         k = len(p)
 
+        left=0
         for i in range(len(s)):
             window[s[i]] = window.get(s[i], 0) + 1
 
             if i >= k:
-                left = s[i - k]
-                window[left] -= 1
+                window[s[left]] -= 1
 
-                if window[left] == 0:
-                    del window[left]
+                if window[s[left]] == 0:
+                    del window[s[left]]
+                left+=1
 
             if window == freq:
                 res.append(i - k + 1)
