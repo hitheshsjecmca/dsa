@@ -1,13 +1,13 @@
 class Solution(object):
     def merge(self, intervals):
-        intervals.sort()
-        merged=[]
+        intervals.sort() 
+        merge=[]
 
         for i in intervals:
-            if not merged or merged[-1][1]<i[0]:
-                merged.append(i)
+            if not merge or merge[-1][1]<i[0]:
+                merge.append(i)
             else:
-                merged[-1][1]=max(merged[-1][1],i[1])
+                merge[-1][1]=max(merge[-1][1],i[1])
+        return merge
 
-        return merged
         
