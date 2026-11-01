@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hitheshsjecmca/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/hitheshsjecmca/dsa/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/hitheshsjecmca/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0454-4sum-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/hitheshsjecmca/dsa/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hitheshsjecmca/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/hitheshsjecmca/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/hitheshsjecmca/dsa/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hitheshsjecmca/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hitheshsjecmca/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/hitheshsjecmca/dsa/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/hitheshsjecmca/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/hitheshsjecmca/dsa/tree/master/0645-set-mismatch) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hitheshsjecmca/dsa/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/hitheshsjecmca/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |
