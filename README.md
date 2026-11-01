@@ -490,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hitheshsjecmca/dsa/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/hitheshsjecmca/dsa/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
