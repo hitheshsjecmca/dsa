@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/hitheshsjecmca/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/hitheshsjecmca/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hitheshsjecmca/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1094-car-pooling](https://github.com/hitheshsjecmca/dsa/tree/master/1094-car-pooling) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hitheshsjecmca/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/hitheshsjecmca/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/hitheshsjecmca/dsa/tree/master/1552-magnetic-force-between-two-balls) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/hitheshsjecmca/dsa/tree/master/0645-set-mismatch) |
+| [1094-car-pooling](https://github.com/hitheshsjecmca/dsa/tree/master/1094-car-pooling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/hitheshsjecmca/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hitheshsjecmca/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/hitheshsjecmca/dsa/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/hitheshsjecmca/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/hitheshsjecmca/dsa/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/hitheshsjecmca/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hitheshsjecmca/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/hitheshsjecmca/dsa/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/hitheshsjecmca/dsa/tree/master/0347-top-k-frequent-elements) |
+| [1094-car-pooling](https://github.com/hitheshsjecmca/dsa/tree/master/1094-car-pooling) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -502,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/hitheshsjecmca/dsa/tree/master/0056-merge-intervals) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/hitheshsjecmca/dsa/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
