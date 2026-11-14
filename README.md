@@ -521,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/hitheshsjecmca/dsa/tree/master/1094-car-pooling) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/hitheshsjecmca/dsa/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
