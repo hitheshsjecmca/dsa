@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hitheshsjecmca/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/hitheshsjecmca/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/hitheshsjecmca/dsa/tree/master/1552-magnetic-force-between-two-balls) |
+| [1854-maximum-population-year](https://github.com/hitheshsjecmca/dsa/tree/master/1854-maximum-population-year) |
 ## Binary Search
 |  |
 | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/hitheshsjecmca/dsa/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/hitheshsjecmca/dsa/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/hitheshsjecmca/dsa/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/hitheshsjecmca/dsa/tree/master/1854-maximum-population-year) |
 ## Matrix
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/hitheshsjecmca/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hitheshsjecmca/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hitheshsjecmca/dsa/tree/master/0992-subarrays-with-k-different-integers) |
+| [1854-maximum-population-year](https://github.com/hitheshsjecmca/dsa/tree/master/1854-maximum-population-year) |
 ## Manacher
 |  |
 | ------- |
