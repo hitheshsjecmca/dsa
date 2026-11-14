@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/hitheshsjecmca/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/hitheshsjecmca/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1854-maximum-population-year](https://github.com/hitheshsjecmca/dsa/tree/master/1854-maximum-population-year) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hitheshsjecmca/dsa/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Binary Search
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hitheshsjecmca/dsa/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/hitheshsjecmca/dsa/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hitheshsjecmca/dsa/tree/master/0992-subarrays-with-k-different-integers) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hitheshsjecmca/dsa/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Sorting
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/hitheshsjecmca/dsa/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/hitheshsjecmca/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/hitheshsjecmca/dsa/tree/master/1854-maximum-population-year) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hitheshsjecmca/dsa/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Matrix
 |  |
 | ------- |
