@@ -1,26 +1,19 @@
 class Solution(object):
     def isAnagram(self, s, t):
+
         if len(s)!=len(t):
             return False
 
-        c={}
+        count={}
 
         for ch in s:
-            if ch in c:
-                c[ch]+=1
-            else:
-                c[ch]=1
-        
-        for ch in t:
-            if ch in c:
-                c[ch]-=1
-            else:
-                c[ch]=-1
+            count[ch]=count.get(ch,0)+1
 
-        for ch in c:
-            if c[ch]!=0:
+        for a in t:
+            if a not in count or count[a]==0:
                 return False
+            count[a]-=1
 
         return True
+
         
-            
