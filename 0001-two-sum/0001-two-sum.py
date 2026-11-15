@@ -1,12 +1,14 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        freq={}
 
-        for i,x in enumerate(nums):
-            rem=target-x
+        seen={}
 
-            if rem in freq:
-                return [freq[rem],i]
-            
-            freq[x]=i
+        for i in range(len(nums)):
+
+            dif=target-nums[i]
+
+            if dif in seen:
+                return [seen[dif],i]
+
+            seen[nums[i]]=i
         
