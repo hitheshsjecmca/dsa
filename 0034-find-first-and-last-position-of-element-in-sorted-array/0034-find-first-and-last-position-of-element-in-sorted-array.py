@@ -1,36 +1,25 @@
 class Solution(object):
     def searchRange(self, nums, target):
-        def first():
-            l=0
-            r=len(nums)-1
-            f=-1
-            while l<=r:
-                m=(l+r)//2
+        def find(gf):
+            low=0
+            high=len(nums)-1
+            answer=-1
 
-                if nums[m]==target:
-                    f=m
-                    r=m-1
-                elif target>nums[m]:
-                    l=m+1
+            while low<=high:
+                mid=(low+high)//2
+                if nums[mid]==target:
+                    answer=mid
+
+                    if gf:
+                        high=mid-1
+                    else:
+                        low=mid+1
+                elif nums[mid]<target:
+                    low=mid+1
                 else:
-                    r=m-1
-                
-            return f
-        def last():
-            l=0
-            r=len(nums)-1
-            la=-1
-            while l<=r:
-                m=(l+r)//2
+                    high=mid-1
 
-                if nums[m]==target:
-                    la=m
-                    l=m+1
+            return answer
 
-                elif target>nums[m]:
-                    l=m+1
-                else:
-                    r=m-1
-            return la
-        return[first(),last()]
+        return [find(True),find(False)]
         
