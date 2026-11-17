@@ -1,12 +1,8 @@
 class Solution(object):
     def singleNumber(self, nums):
 
-        freq={}
+        result=0
 
-        for i in range(len(nums)):
-            freq[nums[i]]=freq.get(nums[i],0)+1
-
-        for ch in freq:
-            if freq[ch]==1:
-                return ch
-        
+        for ch in nums:
+            result^=ch
+        return result
