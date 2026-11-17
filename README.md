@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/hitheshsjecmca/dsa/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hitheshsjecmca/dsa/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/hitheshsjecmca/dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/hitheshsjecmca/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hitheshsjecmca/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0410-split-array-largest-sum) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hitheshsjecmca/dsa/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/hitheshsjecmca/dsa/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/hitheshsjecmca/dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/hitheshsjecmca/dsa/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hitheshsjecmca/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0680-valid-palindrome-ii) |
@@ -560,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hitheshsjecmca/dsa/tree/master/0075-sort-colors) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/hitheshsjecmca/dsa/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
