@@ -1,7 +1,6 @@
 class Solution(object):
     def increasingTriplet(self, nums):
         fr=float('inf')
-
         ls=float('inf')
 
         for x in nums:
