@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/hitheshsjecmca/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1854-maximum-population-year](https://github.com/hitheshsjecmca/dsa/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hitheshsjecmca/dsa/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/hitheshsjecmca/dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2381-shifting-letters-ii](https://github.com/hitheshsjecmca/dsa/tree/master/2381-shifting-letters-ii) |
 ## Binary Search
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hitheshsjecmca/dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hitheshsjecmca/dsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hitheshsjecmca/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/hitheshsjecmca/dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2381-shifting-letters-ii](https://github.com/hitheshsjecmca/dsa/tree/master/2381-shifting-letters-ii) |
 ## Stack
 |  |
