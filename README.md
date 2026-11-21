@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/hitheshsjecmca/dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/hitheshsjecmca/dsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/hitheshsjecmca/dsa/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/hitheshsjecmca/dsa/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/hitheshsjecmca/dsa/tree/master/0394-decode-string) |
 ## Array
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hitheshsjecmca/dsa/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hitheshsjecmca/dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/hitheshsjecmca/dsa/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/hitheshsjecmca/dsa/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/hitheshsjecmca/dsa/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitheshsjecmca/dsa/tree/master/0628-maximum-product-of-three-numbers) |
