@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/hitheshsjecmca/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/hitheshsjecmca/dsa/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/hitheshsjecmca/dsa/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/hitheshsjecmca/dsa/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/hitheshsjecmca/dsa/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/hitheshsjecmca/dsa/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0680-valid-palindrome-ii) |
