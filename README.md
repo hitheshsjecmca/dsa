@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/hitheshsjecmca/dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/hitheshsjecmca/dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hitheshsjecmca/dsa/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/hitheshsjecmca/dsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/hitheshsjecmca/dsa/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/hitheshsjecmca/dsa/tree/master/0394-decode-string) |
 ## Array
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/hitheshsjecmca/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/hitheshsjecmca/dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hitheshsjecmca/dsa/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/hitheshsjecmca/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/hitheshsjecmca/dsa/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/hitheshsjecmca/dsa/tree/master/0412-fizz-buzz) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/hitheshsjecmca/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hitheshsjecmca/dsa/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/hitheshsjecmca/dsa/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/hitheshsjecmca/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/hitheshsjecmca/dsa/tree/master/0645-set-mismatch) |
 ## Counting
