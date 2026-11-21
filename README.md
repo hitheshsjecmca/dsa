@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hitheshsjecmca/dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hitheshsjecmca/dsa/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/hitheshsjecmca/dsa/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/hitheshsjecmca/dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/hitheshsjecmca/dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/hitheshsjecmca/dsa/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/hitheshsjecmca/dsa/tree/master/0412-fizz-buzz) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/hitheshsjecmca/dsa/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hitheshsjecmca/dsa/tree/master/0412-fizz-buzz) |
 | [1094-car-pooling](https://github.com/hitheshsjecmca/dsa/tree/master/1094-car-pooling) |
 ## Database
@@ -596,4 +598,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/hitheshsjecmca/dsa/tree/master/0334-increasing-triplet-subsequence) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hitheshsjecmca/dsa/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
